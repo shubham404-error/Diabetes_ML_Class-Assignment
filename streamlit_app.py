@@ -6,7 +6,6 @@ Created on Sun Oct 16 22:20:14 2022
 """
 
 import pickle as pkl
-import sklearn
 import streamlit as st
 
 model=pkl.load(open('model.sav','rb'))
