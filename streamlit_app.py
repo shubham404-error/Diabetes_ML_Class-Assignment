@@ -13,7 +13,7 @@ model=pkl.load(open('model.sav','rb'))
 def diab_pred(input_data):
     prediction=model.predict(input_data)
     print(prediction)
-    if prediction[0]==0:
+    if (prediction[0]==0):
         return 'Patient is not diabetic'
     else:
         return 'Patient is diabetic'
@@ -32,4 +32,10 @@ def main():
     diagnosis=''
     if st.button('Diabetes Test Result'):
         diagnosis=diab_pred([Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age])
-        st.success(diagnosis)
+        
+st.success(diagnosis)
+if __name__ == '__main__':
+    main()
+
+        
+   
