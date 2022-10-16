@@ -8,7 +8,7 @@ Created on Sun Oct 16 22:20:14 2022
 import pickle as pkl
 import streamlit as st
 
-model=pkl.load(open(r"model.sav",'rb'))
+model=pkl.load(open('model.sav','rb'))
 
 def diab_pred(input_data):
     prediction=model.predict(input_data)
