@@ -1,3 +1,5 @@
+<html>
+  <p>
 **Diabetes Prediction**
 **This repository contains the code and data used to create a diabetes prediction model.**
 
@@ -32,5 +34,7 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 ##Acknowledgments
 The dataset used in this project was obtained from Kaggle: Pima Indians Diabetes Database
 The code for this project was inspired by the Data Science Project from Scratch with Python tutorial by Susan Li.
+    </head>
+    </html>
 
 
