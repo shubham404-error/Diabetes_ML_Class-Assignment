@@ -2,7 +2,7 @@
 # Diabetes Prediction
 **This repository contains the code and data used to create a diabetes prediction model.**
 
-**About the Project**
+## About the Project
 Diabetes is a chronic disease that affects millions of people worldwide. Early detection and management of the disease can significantly improve outcomes for patients. This project aims to create a machine learning model that can predict whether a patient is at risk of developing diabetes based on a set of clinical and demographic features.
 
 The dataset used in this project is the Pima Indians Diabetes Database from Kaggle. It contains 768 observations and 8 features, including the outcome variable (whether or not a patient has diabetes).
