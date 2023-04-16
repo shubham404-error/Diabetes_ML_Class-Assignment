@@ -1,5 +1,5 @@
 
-**Diabetes Prediction**
+# Diabetes Prediction
 **This repository contains the code and data used to create a diabetes prediction model.**
 
 **About the Project**
@@ -16,6 +16,7 @@ scikit-learn
 matplotlib
 seaborn
 You can install these packages using pip:
+
 ```pip install pandas numpy scikit-learn matplotlib seaborn```
 
 
