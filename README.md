@@ -1,5 +1,5 @@
 <html>
-  <p>
+  <p style="font-size:18px;">
 **Diabetes Prediction**
 **This repository contains the code and data used to create a diabetes prediction model.**
 
