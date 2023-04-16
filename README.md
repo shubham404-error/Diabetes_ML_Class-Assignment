@@ -1,4 +1,4 @@
-*Diabetes Prediction*
+**Diabetes Prediction**
 **This repository contains the code and data used to create a diabetes prediction model.**
 
 **About the Project**
